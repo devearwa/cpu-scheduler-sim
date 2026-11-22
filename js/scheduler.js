@@ -1,1 +1,1 @@
-// Leader - Scheduling engine (FCFS + Priority), snapshots, metrics
+//  Scheduling engine (FCFS + Priority), snapshots, metrics
