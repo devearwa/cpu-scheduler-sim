@@ -1,1 +1,1 @@
-// Member 3 - Gantt chart drawing: renderGantt(snapshots, stepIndex)
+//  Gantt chart drawing: renderGantt(snapshots, stepIndex)
