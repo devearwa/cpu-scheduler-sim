@@ -1,1 +1,1 @@
-// Member 2 - Input form: getProcesses(), getAlgorithm(), validation
+// Input form: getProcesses(), getAlgorithm(), validation
