@@ -1,4 +1,4 @@
-//  Scheduling (FCFS + Priority), simulationSteps,نتائج الحسابات CT, TAT, WT والمتوسطات
+ // Scheduling algorithms and simulation steps
 
  // FCFS
 
